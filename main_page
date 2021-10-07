@@ -1,8 +1,8 @@
 
 <div class="wrapper">
 <div class="header">
-  <h1 style="color: blue; font-size:32px; text-align: center">I am on the market!</h1>
-  <p>I will be on the academic job market during the 2020-2021 academic year. My research statement can be found <a href="https://people.math.osu.edu/schonsheck.2/Schonsheck_research_statement.pdf">here.</a> </p>
+  <h1 style="color: blue; font-size:32px; text-align: center"><del>I am on the market!</del></h1>
+  <p><del>I will be on the academic job market during the 2020-2021 academic year.</del> My research statement can be found <a href="https://people.math.osu.edu/schonsheck.2/Schonsheck_research_statement.pdf">here.</a> </p>
 
 A brief video summary of my research statement, made for the <a href="https://s.wayne.edu/echt/electronic-algebraic-topology-employment-network/">eATEN</a>, can be found <a href="https://www.youtube.com/watch?v=Va8fOPadRn4"> here.</a>
 </div>
