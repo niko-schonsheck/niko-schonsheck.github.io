@@ -34,16 +34,13 @@ I very much enjoy teaching. I have served as an instructor both at the Universit
 <h1>Research</h1>
 </center>
 <hr>
-My recent research has focused on spectra with additional algebraic structure that can be described as being an algebra over an operad O. For example, we can study E-infinity or A-infinity ring spectra with this type of machinery. However, operads let us encode more general flavors of algebraic structure. I am pursuing a number of different research avenues within this setting.<br><br>
 
-For PhD research: A brief video summary of my research statement, made for the <a href="https://s.wayne.edu/echt/electronic-algebraic-topology-employment-network/">eATEN</a>, can be found <a href="https://www.youtube.com/watch?v=Va8fOPadRn4"> here.</a>
+Mr research insterests span both applied and theoretical topology. On the applied side, I am interested in applications of topology to problems in neuroscience and data science. In particular, I study how the techniques of persistent (co)homology can be used to extract meaning from large data sets, and how cohomology classes can provide nonlinear coordinate systems for dimensionality reduction. I am also working on problems in equivariant dimensionality reduction, and independent coordinate analysis of circular coordinates. Looking towards the future, I am excited to see how methods from homotopy theory can be brought to bear on problems in applied topology.
 
-One of my current projects deals with a naturally occurring notion of homology for O-algebras, called topological Quillen (TQ) homology. It is the precise analog of ordinary homology of spaces and weakly equivalent to stabilization of O-algebras. I am interested in understanding "how much of an O-algebra TQ-homology sees." More specifically, I study completion with respect to TQ-homology and have determined a certain class of fibration sequences which are preserved by TQ-completion. <br><br>
-
-I am also interested in applications of Goodwillie calculus. This machinery lets us approximate a general (suitably nice) functor by a sequence of more manageable functors each of which has useful formal properties, in the same way that Taylor polynomials allow us to approximate a large class of more complicated functions. Particularly, I am curious about the interplay between completion constructions and the Goodwillie Taylor tower, and have proven a result describing an intrinsic connection between the two in the context of O-algebras.<br><br>
+On the more theoretical side, I am broadly interested in spectra with additional algebraic structure that can be described by an operad O. For example, while we can study E-infinity or A-infinity ring spectra with this type of machinery, operads also let us encode more general flavors of algebraic structure. I am pursuing a number of different research avenues within this setting. In joint work with Crichton Ogle, we recently showed that chromatic localization commutes with the terms of the Goodwillie Taylor Tower of the identity functor on O-algebras. A brief summary of my PhD research, made for the <a href="https://s.wayne.edu/echt/electronic-algebraic-topology-employment-network/">eATEN</a>, can be found <a href="https://www.youtube.com/watch?v=Va8fOPadRn4"> here.</a><br><br>
 
 
-Most recently, I have begun to explore chromatic homotopy theory. In joint work with Crichton Ogle, we are able to show that chromatic localization, i.e., localization with respect to the Johnson-Wilson spectrum E(n) for a fixed prime p, commutes with the terms of the homotopy completion tower associated to any O-algebra.<br><br>
+
 
 <center><u>
 <h3> Publications/preprints 
@@ -86,7 +83,7 @@ Working in the context of algebras over a spectral operad, we prove that complet
 <b> On the cop number of generalized Petersen graphs. </b> 
 
  <br>
-(With T. Ball, R. Bell, J. Guzman, and M. Hanson-Colvin). Discrete Mathematics, <b>340</b> (6) 1381-1388, 2017.<br>
+(With T. Ball, R. Bell, J. Guzman, and M. Hanson-Colvin). Discrete Mathematics <b>340</b> (6) 1381-1388, 2017.<br>
 This paper came about from work done during the SURIEM program (an REU) at Michigan State University in 2014. <a href="https://www.sciencedirect.com/science/article/pii/S0012365X16303387/">journal</a> / <a href="https://arxiv.org/abs/1509.04696">arXiv</a>
 
 
