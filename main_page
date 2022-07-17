@@ -2,8 +2,8 @@
 <div class="wrapper">
 <div class="header">
   <h1 style="color: blue; font-size:32px; text-align: center">I will be on the academic market in the Fall of 2022</h1>
-  <br>
-  <br>
+
+
 
 
 
@@ -61,19 +61,21 @@ The completion tower of a nonunital commutative ring is a classical construction
 <br>
 <br>
 
-<b> TQ-completion and the Taylor tower of the identity functor.</b> Submitted.
+<b> TQ-completion and the Taylor tower of the identity functor.</b>
+<br
+<i> Journal of Homotopy and Related Structures </i> <b> 17</b> (2) 201-216, 2022. 
 <br>
-This paper studies the convergence of the Taylor tower of the identity functor in the context of operadic algebras in spectra. Specifically, we show that if a A is a (-1)-connected O-algebra with 0-connected TQ-homology spectrum, then there is a natural weak equivalence between the limit of the Taylor tower of the identity functor evaluated on A and the TQ-completion of A. Since, in this context, the identity functor is only known to be 0-analytic, this result extends knowledge of the Taylor tower of the identity beyond its "radius of convergence." (12 pages), 2020. <a href="https://arxiv.org/abs/2011.00570">arXiv</a> / <a href="https://people.math.osu.edu/schonsheck.2/research_files/Taylor_tower_of_identity.pdf">pdf</a>
+This paper studies the convergence of the Taylor tower of the identity functor in the context of operadic algebras in spectra. Specifically, we show that if a A is a (-1)-connected O-algebra with 0-connected TQ-homology spectrum, then there is a natural weak equivalence between the limit of the Taylor tower of the identity functor evaluated on A and the TQ-completion of A. Since, in this context, the identity functor is only known to be 0-analytic, this result extends knowledge of the Taylor tower of the identity beyond its "radius of convergence." (14 pages), 2022. <a href="https://arxiv.org/abs/2011.00570">arXiv</a> / <a href="https://people.math.osu.edu/schonsheck.2/research_files/Taylor_tower_of_identity.pdf">pdf</a>
 
 <br>
 <br>
 
 <b> Fibration theorems for TQ-completion of structured ring spectra. </b>
 <br>
-<i> Tbilisi Math. Journal: Special Issue on Homotopy Theory, Spectra, and Structured Ring Spectra.</i>
+<i> Tbilisi Math. Journal: Special Issue on Homotopy Theory, Spectra, and Structured Ring Spectra.</i> (2020)
 <br>
 
-Working in the context of algebras over a spectral operad, we prove that completion with respect to topological Quillen homology preserves homotopy fibration sequences in which the base and total objects are connected. More generally, we show that similar results remain true if we replace "homotopy fibration sequence" with "homotopy pullback square." (14 pages), 2020. <a href="https://arxiv.org/abs/2002.00038">arXiv</a> / <a href="https://people.math.osu.edu/schonsheck.2/research_files/Fibration_theorems.pdf">pdf</a>
+Working in the context of algebras over a spectral operad, we prove that completion with respect to topological Quillen homology preserves homotopy fibration sequences in which the base and total objects are connected. More generally, we show that similar results remain true if we replace "homotopy fibration sequence" with "homotopy pullback square." (14 pages) <a href="https://arxiv.org/abs/2002.00038">arXiv</a> / <a href="https://people.math.osu.edu/schonsheck.2/research_files/Fibration_theorems.pdf">pdf</a>
 
 <br>
 <br>
