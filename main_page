@@ -27,20 +27,6 @@ I very much enjoy teaching. I have served as an instructor both at the Universit
 
 
 
-<br><br>
-<hr>
-<center>
-<a class="anchor" name="Research"></a>
-<h1>Research</h1>
-</center>
-<hr>
-
-My research interests span both applied and theoretical topology. On the applied side, I am interested in applications of topology to problems in neuroscience and data science. In particular, I study how the techniques of persistent (co)homology can be used to extract meaning from large data sets, and how cohomology classes can provide nonlinear coordinate systems for dimensionality reduction. I am also working on problems in equivariant dimensionality reduction, and independent coordinate analysis of circular coordinates. Looking towards the future, I am excited to see how methods from homotopy theory can be brought to bear on problems in applied topology.
-
-<br><br>
-
-On the more theoretical side, I am broadly interested in spectra with additional algebraic structure that can be described by an operad O. For example, while we can study E-infinity or A-infinity ring spectra with this type of machinery, operads also let us encode more general flavors of algebraic structure. I am pursuing a number of different research avenues within this setting. In joint work with Crichton Ogle, we recently showed that chromatic localization commutes with the terms of the Goodwillie Taylor Tower of the identity functor on O-algebras. A brief summary of my PhD research, made for the <a href="https://s.wayne.edu/echt/electronic-algebraic-topology-employment-network/">eATEN</a>, can be found <a href="https://www.youtube.com/watch?v=Va8fOPadRn4"> here.</a><br><br>
-
 
 
 
@@ -118,6 +104,22 @@ Lecture notes: <a href="https://people.math.osu.edu/schonsheck.2/teaching_files/
 <b> Spring 2021:</b> Phil Huneke Distinguished Graduate Teaching Associate Award. Mathematics Department. This award recognizes "mathematics graduate students who have demonstrated excellence in the classroom and a high level of commitment to undergraduate mathematics education." Awarded for the 2019-2020 academic year, but awards delayed to 2021 due to the COVID-19 pandemic.<br><br>
 <b>Spring 2020:</b> <a href="https://gradsch.osu.edu/news/graduate-associate-teaching-award-recipients-2020">Graduate Associate Teaching Award.</a> University-wide. ``Ohio State's highest recognition of teaching done by graduate students.'' 10 recipients chosen each year out of 3000+ GTA's.<br><br>
 <b>Spring 2016:</b> First-year graduate teaching award, Mathematics Department. ``This award recognizes outstanding first year Graduate Teaching Associates within the OSU Department of Mathematics.''
+
+
+<br><br>
+<hr>
+<center>
+<a class="anchor" name="Research"></a>
+<h1>Research</h1>
+</center>
+<hr>
+
+My research interests span both applied and theoretical topology. On the applied side, I am interested in applications of topology to problems in neuroscience and data science. In particular, I study how the techniques of persistent (co)homology can be used to extract meaning from large data sets, and how cohomology classes can provide nonlinear coordinate systems for dimensionality reduction. I am also working on problems in equivariant dimensionality reduction, and independent coordinate analysis of circular coordinates. Looking towards the future, I am excited to see how methods from homotopy theory can be brought to bear on problems in applied topology.
+
+<br><br>
+
+On the more theoretical side, I am broadly interested in spectra with additional algebraic structure that can be described by an operad O. For example, while we can study E-infinity or A-infinity ring spectra with this type of machinery, operads also let us encode more general flavors of algebraic structure. I am pursuing a number of different research avenues within this setting. In joint work with Crichton Ogle, we recently showed that chromatic localization commutes with the terms of the Goodwillie Taylor Tower of the identity functor on O-algebras. A brief summary of my PhD research, made for the <a href="https://s.wayne.edu/echt/electronic-algebraic-topology-employment-network/">eATEN</a>, can be found <a href="https://www.youtube.com/watch?v=Va8fOPadRn4"> here.</a><br><br>
+
 
 
 <center><u>
