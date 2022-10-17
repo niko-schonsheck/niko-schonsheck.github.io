@@ -187,6 +187,13 @@ This paper came about from work done during the SURIEM program (an REU) at Michi
 <h3> Invited and contributed talks </h3> 
 </u></center>
 
+<b> Geometry-Topology Seminar, Oregon State University (2022) </b>
+<br>
+<i> Spherical coordinates from persistent cohomology</i>
+<br>
+The circular coordinates algorithm of de Silva et al., later strengthened by Perea, extracts circular parameterizations of data from a persistent cohomology calculation. In other words, given a data set X, one can obtain coordinate functions from X to the unit circle via fist-degree persistent cohomology. Since these results were first published a little over a decade ago, the question of whether spherical coordinates, i.e., maps from X to the unit sphere, could be obtained from second-degree persistent cohomology. In this talk, I will discuss work in which we obtain such spherical parameterizations and describe examples of our algorithm on various data sets. This is joint work with Stefan Schonsheck.
+<br><br>
+
 
 <b> Topology Seminar, University of Iowa (2021)</b>
 <br>
