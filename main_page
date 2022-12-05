@@ -134,9 +134,16 @@ On the more theoretical side, I am broadly interested in spectra with additional
 </h3> 
 </u></center>
 
-<b> Spherical coordinates from persistent cohomology </b> (with S. Schonsheck).
+<b> Spherical coordinates from persistent cohomology </b> (with S. Schonsheck). Submitted.
 <br>
 We describe a method to obtain spherical parameterizations of arbitrary data through the use of persistent cohomology and variational optimization. This builds on the "circular coordinates" of de Silva--Morozov--Vejdemo-Johansson and Perea, answering in the affirmative a question first posed by de Silva et al. in 2011. (18 pages). Preprint available through <a href="https://arxiv.org/abs/2209.02791">arXiv</a>.
+
+<br>
+<br>
+
+<b> Geometrically independent circular coordinates. </b> (With J. Bush, H. Gakhar, J. Perea, T. Rask, L. Scoccola, L. Zhou). Submitted.
+<br>
+The circular coordinates algorithm of deSilva, Morozov, and Vejdemo-Johansson takes as input a dataset together with a cohomology class representing a 1-dimensional hole in the data; the output is a map from the data into the circle that captures this hole, and that is of minimal energy in a suitable sense. However, when applied to several cohomology classes, the output circle-valued maps can be “geometrically correlated” even if the chosen cohomology classes are linearly independent. We describe a systematic procedure for constructing low energy torus-valued maps on data starting from a set of linearly independent cohomology classes, and showcase our procedure with computational examples.
 
 <br>
 <br>
@@ -181,12 +188,6 @@ This paper came about from work done during the SURIEM program (an REU) at Michi
 <h3> In preparation 
 </h3> 
 </u></center>
-<b> Geometrically independent circular coordinates. </b>
-<br>
-(With J. Bush, H. Gakhar, J. Perea, T. Rask, L. Scoccola, L. Zhou).
-
-<br>
-<br>
 <b> Equivariant dimensionality reduction on Stiefel manifolds. </b>
 <br>
 (With A. Lee, H. Lee, J. Perea, M. Weinstein).
