@@ -141,7 +141,7 @@ We describe a method to obtain spherical parameterizations of arbitrary data thr
 <br>
 <br>
 
-<b> Geometrically independent circular coordinates. </b> (With J. Bush, H. Gakhar, J. Perea, T. Rask, L. Scoccola, L. Zhou). Submitted.
+<b> Toroidal coordinates: decorrelating circular coordinates with lattice reduction </b> (With J. Bush, H. Gakhar, J. Perea, T. Rask, L. Scoccola, L. Zhou). Submitted.
 <br>
 The circular coordinates algorithm of de Silva, Morozov, and Vejdemo-Johansson takes as input a dataset together with a cohomology class representing a 1-dimensional hole in the data; the output is a map from the data into the circle that captures this geometric feature and that is of minimal energy in a suitable sense. However, when applied to several cohomology classes, the output circle-valued maps can be “geometrically correlated” even if the chosen cohomology classes are linearly independent. We describe a systematic procedure for constructing low energy torus-valued maps on data, and showcase our procedure with computational examples.
 
