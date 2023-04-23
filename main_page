@@ -141,7 +141,9 @@ We describe a method to obtain spherical parameterizations of arbitrary data thr
 <br>
 <br>
 
-<b> Toroidal coordinates: decorrelating circular coordinates with lattice reduction </b> (With J. Bush, H. Gakhar, J. Perea, T. Rask, L. Scoccola, L. Zhou). Submitted.
+<b> Toroidal coordinates: decorrelating circular coordinates with lattice reduction </b> (With J. Bush, H. Gakhar, J. Perea, T. Rask, L. Scoccola, L. Zhou).
+<br>
+Accepted to <i>39th International Symposium on Computational Geometry.</i>
 <br>
 The circular coordinates algorithm of de Silva, Morozov, and Vejdemo-Johansson takes as input a dataset together with a cohomology class representing a 1-dimensional hole in the data; the output is a map from the data into the circle that captures this geometric feature and that is of minimal energy in a suitable sense. However, when applied to several cohomology classes, the output circle-valued maps can be “geometrically correlated” even if the chosen cohomology classes are linearly independent. We describe a systematic procedure for constructing low energy torus-valued maps on data, and showcase our procedure with computational examples. (21 pages). Preprint available through <a href="https://arxiv.org/abs/2212.07201">arXiv</a>.
 
@@ -208,6 +210,14 @@ This paper came about from work done during the SURIEM program (an REU) at Michi
 <center><u>
 <h3> Invited and contributed talks </h3> 
 </u></center>
+
+
+<b> Organization for Computational Neuroscience Annual Meeting </b>
+<br>
+<i>Relative neural population size modulates learnability of cyclic features of neural codes</i>
+<br>
+We show that a biologically plausible Hebbian learning rule robustly supports the propagation of cyclic features of neural coding and that, furthermore, relative neural population sizes effectively modulate the propogation and inhibition of such features.
+<br><br>
 
 <b> Geometry-Topology Seminar, Oregon State University (2022) </b>
 <br>
