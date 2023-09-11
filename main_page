@@ -33,7 +33,6 @@ I very much enjoy teaching. I have served as an instructor both at the Universit
 
 
 
-
 <br>
 <br>
 <hr>
@@ -193,25 +192,32 @@ This paper came about from work done during the SURIEM program (an REU) at Michi
 <br>
 (with A. Lee, H. Lee, J. Perea, M. Weinstein).
 <br>
-Many real-world data sets live on high-dimensional Stiefel manifolds and benefit from projections onto lower-dimensional Stiefel manifolds. We describe an algotirhm, called <i>Principal Stiefel Coordinates</i> that accomplishes this, and does so in an equivariant way. Hence, our algorithm extends to data living on Grassmannian manifolds as well. We perform multiple numerical experiments on real-world and synthetic data sets.
+Many real-world data sets live on high-dimensional Stiefel manifolds and benefit from projections onto lower-dimensional Stiefel manifolds. We describe an algorithm, called <i>Principal Stiefel Coordinates</i> that accomplishes this, and does so in an equivariant way. Hence, our algorithm extends to data living on Grassmannian manifolds as well. We perform multiple numerical experiments on real-world and synthetic data sets.
 <br>
 <br>
 
 <b> Relative neural population size modulates learnability of cyclic features of neural code</b><br>
 (with C. Giusti).
 <br>
+We study the propagation of cyclic features of neural code through feedforward rate-model networks. Our primary results are 1) one-layer feedforward networks with connections drawn from a random distribution biased towards inhibitory connections do not generally propagate cyclic features of neural code 2) a simple Hebbian learning rule to update network connections successfully constructs networks that do propagate cyclic features and 3) under certain biologically plausible parameter choices, the inhibition and propagation of such features can be modulated by the size of the output neuron population.
 <br>
+<br>
+
 
 <b> A generalized Dowker Theorem</b>
 <br>
 (with C. Giusti, V. Itskov, M. Robinson, R. Sazdanovic, V. de Silva, M. Vaupel, H-R. Yoon).
-
-
+A classical theorem of C. H. Dowker implies that, from a topological perspective, the role of "witnesses" and "landmarks" of a data set are interchangeable. We generalize this theorem to multi-way relations of sets. We offer several proofs from a variety of perspectives, and discuss the historical development of results of this nature. 
 <br>
 <br>
+<br>
+
+
 <center>
 <u><h3> Other research and service activity </h3></u></center>
-<b> Spring 2023:</b> Co-organized JMM special session <a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2023/2270_program_ss68.html">Applied Topology: Theory and Implementation</a>, January 2023. <br>
+
+<b> Spring 2024:</b> Co-organizing AIM-AMS special session <a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss61.html">Applied Topology Beyond Persistence Diagrams</a> at the JMM, January 2024.<br>
+<b> Spring 2023:</b> Co-organized AMS special session <a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2023/2270_program_ss68.html">Applied Topology: Theory and Implementation</a> at the JMM, January 2023. <br>
 <b> Fall 2021-present:</b> Member of <a href="https://sites.udel.edu/antiracism-initiative/committees/addressing-barriers-to-participation-in-stem/">Addressing Barriers to Participation in STEM</a> committee of University of Delaware <a href="https://sites.udel.edu/antiracism-initiative/">Anti-Racism Iniative</a>.<br>
 <b> Spring 2021:</b> Invited Panelist for Marian University AWM Chapter discussion on transitioning from an undergraduate liberal arts education to graduate school/industry in STEM<br>
 <b>Summer 2020:</b> Volunteer mentoring for the <a href="https://math.osu.edu/newsletter/sp19/BAMM">Buckeye Aha! Math Moments</a> program.<br>
