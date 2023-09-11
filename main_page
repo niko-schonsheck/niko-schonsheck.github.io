@@ -240,18 +240,52 @@ A classical theorem of C. H. Dowker implies that, from a topological perspective
 </u></center>
 
 
+
+<b> JMM AMS Special Session on Applied Topology:<br>
+Theory, Algorithms, and Applications, San Francisco (2024)</b>
+<br>
+<i>Spherical parameterizations of data via persistent cohomology</i>
+<br>
+The circular coordinates algorithm of de Silva et al., later strengthened by Perea, extracts circular parameterizations of data from a persistent cohomology calculation. In other words, given a data set X, one can obtain coordinate functions from X to the unit circle via fist-degree persistent cohomology. Since these results were first published a little over a decade ago, the question of whether spherical coordinates, i.e., maps from X to the unit sphere, could be obtained from second-degree persistent cohomology remained open. In this talk, I will discuss work in which we obtain such spherical parameterizations and describe examples of our algorithm on various data sets. This is joint work with Stefan Schonsheck.
+<br><br>
+
+
+
+
+<b> AMS Sectional Special Session on Discrete, Algebraic, and Topological<br>
+Methods in Mathematical Biology, Creighton University (2023) </b>
+<br>
+<i>Hebbian learning of cyclic structures in neural coding</i>
+<br>
+We show that a biologically plausible Hebbian learning rule robustly supports the propagation of cyclic features of neural coding and that, furthermore, relative neural population sizes effectively modulate the propagation and inhibition of such features.
+<br><br>
+
+
 <b> Organization for Computational Neuroscience Annual Meeting (2023) </b>
 <br>
 <i>Relative neural population size modulates learnability of cyclic features of neural codes</i>
 <br>
-We show that a biologically plausible Hebbian learning rule robustly supports the propagation of cyclic features of neural coding and that, furthermore, relative neural population sizes effectively modulate the propogation and inhibition of such features.
+Abstract similar to above.
 <br><br>
+
+
+
+<b> JMM AMS Special Session for Mathematics Research Communities<br>
+Boston, MA (2023)</b>
+<br>
+<i>Equivariant dimensionality reduction on Stiefel manifolds</i>
+<br>
+Beginning with data living on a high-dimensional Stiefel manifold, we describe an algorithm to project this data onto a lower-dimensional Stiefel manifold in an equivariant manner. Because of this equivariance, our method extends also to Grassmannian manifolds. This is a report on work done at the 2022 AMS Mathematics Research Community: Data Science at the Crossroads of Analysis, Geometry, and Topology.
+<br><br>
+
+
+
 
 <b> Geometry-Topology Seminar, Oregon State University (2022) </b>
 <br>
 <i> Spherical coordinates from persistent cohomology</i>
 <br>
-The circular coordinates algorithm of de Silva et al., later strengthened by Perea, extracts circular parameterizations of data from a persistent cohomology calculation. In other words, given a data set X, one can obtain coordinate functions from X to the unit circle via fist-degree persistent cohomology. Since these results were first published a little over a decade ago, the question of whether spherical coordinates, i.e., maps from X to the unit sphere, could be obtained from second-degree persistent cohomology remained open. In this talk, I will discuss work in which we obtain such spherical parameterizations and describe examples of our algorithm on various data sets. This is joint work with Stefan Schonsheck.
+Abstract similar to above.
 <br><br>
 
 
