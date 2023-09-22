@@ -129,11 +129,19 @@ My PhD research was in homotopy theory and studied spectra with additional algeb
 </h3> 
 </u></center>
 
+<b> O(k)-equivariant dimensionality reduction on Stiefel manifolds </b>
+<br>
+(with A. Lee, H. Lee, J. Perea, M. Weinstein).
+<br>
+Many real-world data sets live on high-dimensional Stiefel manifolds and benefit from projections onto lower-dimensional Stiefel manifolds. We describe an algorithm, called <i>Principal Stiefel Coordinates</i>, that accomplishes this, and does so in an equivariant way. Hence, our algorithm extends to data living on Grassmannian manifolds as well. We perform multiple numerical experiments on real-world and synthetic data sets. Preprint available through <a href="https://arxiv.org/abs/2309.10775">arXiv</a>
+<br>
+<br>
+
 <b> Spherical coordinates from persistent cohomology </b> (with S. Schonsheck).
 <br>
 <i> To appear in Journal of Applied and Computational Topology. </i>
 <br>
-We describe a method to obtain spherical parameterizations of arbitrary data through the use of persistent cohomology and variational optimization. This builds on the "circular coordinates" of de Silva--Morozov--Vejdemo-Johansson and Perea, answering in the affirmative a question first posed by de Silva et al. in 2011. (22 pages). Preprint available through <a href="https://arxiv.org/abs/2209.02791">arXiv</a>.
+We describe a method to obtain spherical parameterizations of arbitrary data through the use of persistent cohomology and variational optimization. This builds on the "circular coordinates" of de Silva--Morozov--Vejdemo-Johansson and Perea, answering in the affirmative a question first posed by de Silva et al. in 2011. (22 pages). Also available through <a href="https://arxiv.org/abs/2209.02791">arXiv</a>.
 
 <br>
 <br>
@@ -188,13 +196,7 @@ This paper came about from work done during the SURIEM program (an REU) at Michi
 <h3> In preparation 
 </h3> 
 </u></center>
-<b> Equivariant dimensionality reduction on Stiefel manifolds </b>
-<br>
-(with A. Lee, H. Lee, J. Perea, M. Weinstein).
-<br>
-Many real-world data sets live on high-dimensional Stiefel manifolds and benefit from projections onto lower-dimensional Stiefel manifolds. We describe an algorithm, called <i>Principal Stiefel Coordinates</i>, that accomplishes this, and does so in an equivariant way. Hence, our algorithm extends to data living on Grassmannian manifolds as well. We perform multiple numerical experiments on real-world and synthetic data sets.
-<br>
-<br>
+
 
 <b> Relative neural population size modulates learnability of cyclic features of neural code</b><br>
 (with C. Giusti).
