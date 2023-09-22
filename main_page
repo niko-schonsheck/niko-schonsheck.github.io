@@ -120,7 +120,7 @@ My research is in applied algebraic topology and uses topological tools to analy
 
 <br><br>
 
-My PhD research was in homotopy theory and studied spectra with additional algebraic structure described by an operad O. I used tools from category theory, functor calculus, and chromatic homotopy theory to prove a number of results identifying conditions under which complex algebraic structure can be recovered by "gluing together" simpler approximations. A brief summary of this work, made for the <a href="https://s.wayne.edu/echt/electronic-algebraic-topology-employment-network/">eATEN</a>, can be found <a href="https://www.youtube.com/watch?v=Va8fOPadRn4"> here.</a><br><br>
+My PhD research was in homotopy theory and studied spectra with additional algebraic structure described by an operad. I used tools from category theory, functor calculus, and chromatic homotopy theory to prove a number of results identifying conditions under which complex algebraic structure can be recovered by "gluing together" simpler approximations. A brief summary of this work, made for the <a href="https://s.wayne.edu/echt/electronic-algebraic-topology-employment-network/">eATEN</a>, can be found <a href="https://www.youtube.com/watch?v=Va8fOPadRn4"> here.</a><br><br>
 
 
 
@@ -133,7 +133,7 @@ My PhD research was in homotopy theory and studied spectra with additional algeb
 <br>
 (with A. Lee, H. Lee, J. Perea, M. Weinstein).
 <br>
-Many real-world data sets live on high-dimensional Stiefel manifolds and benefit from projections onto lower-dimensional Stiefel manifolds. We describe an algorithm, called <i>Principal Stiefel Coordinates</i>, that accomplishes this, and does so in an equivariant way. Hence, our algorithm extends to data living on Grassmannian manifolds as well. We perform multiple numerical experiments on real-world and synthetic data sets. Preprint available through <a href="https://arxiv.org/abs/2309.10775">arXiv</a>
+Many real-world data sets live on high-dimensional Stiefel manifolds and benefit from projections onto lower-dimensional Stiefel manifolds. We describe an algorithm, called <i>Principal Stiefel Coordinates</i>, that accomplishes this, and does so in an equivariant way. Hence, our algorithm extends to data living on Grassmannian manifolds as well. We perform multiple numerical experiments on real-world and synthetic data sets. Preprint available through <a href="https://arxiv.org/abs/2309.10775">arXiv</a>.
 <br>
 <br>
 
