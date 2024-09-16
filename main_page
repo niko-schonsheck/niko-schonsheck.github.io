@@ -118,7 +118,7 @@ Lecture notes: <a href="https://people.math.osu.edu/schonsheck.2/teaching_files/
 </center>
 <hr>
 
-My research is in applied algebraic topology and uses topological tools to analyze and compare high-dimensional data sets. In further detail, my work focuses on the following three areas: 1) reducing the dimensionality of large data sets in a topologically-invariant way, 2) identifying and tracking topological features of neural code, and 3) developing novel theoretical approaches to modern applied problems using advanced tools in algebraic topology. 
+My research is in applied algebraic topology and uses topological tools to analyze and compare high-dimensional data sets. In further detail, my work focuses on 1) reducing the dimensionality of large data sets in topologically-invariant ways, 2) using tools from topological data analysis to study the geometry of neural representations and neural circuits, using both real-world and simulated data, and 3) developing novel theoretical approaches to modern applied problems using advanced tools from algebraic topology and homotopy theory. 
 
 <br><br>
 
@@ -240,8 +240,27 @@ A classical theorem of C. H. Dowker implies that, from a topological perspective
 
 
 <center><u>
-<h3> Invited and contributed talks </h3> 
+<h3> Invited and contributed presentations </h3> 
 </u></center>
+
+
+<b> International Conference on Mathematical Neuroscience<br>
+University College, Dublin (2024)</b>
+<br>
+<i> Relative neural population size modulates learnability of cyclic features of neural code.</i>
+<br>
+Cyclic structures are a class of mesoscale features ubiquitous in both experimental stimuli and the activity of neural populations encoding them. Important examples include encoding of head direction, orientation tuning, and grid cells. The central question of our present work is: how does the brain faithfully transmit cyclic structures between regions? Is this a generic feature of neural circuits, or must this be learned? If so, how? Our primary results are 1) feedforward networks with connections drawn from inhibitory-biased random distributions do not reliably propagate cyclic features, 2) updating network connections with a biologically realistic Hebbian learning rule robustly constructs networks that transmit cyclic features, and 3) the inhibition and propagation of such features can be modulated by the size of the output neuron population. 
+<br><br>
+
+
+<b> NEXTEN: Envisaging Theoretical and Computational Neuroscience for the next 10 years<br>
+Washington University, St. Louis (2024) </b>
+<br> 
+<i> Relative neural population size modulates learnability of cyclic features of neural code.</i>
+<br>
+Abstract similar to above.
+<br><br>
+
 
 
 
