@@ -16,10 +16,10 @@
 <hr>
 
 
-I am an applied algebraic topologist. I develop tools for topological analysis of data and apply them to real-world data, particularly in neuroscience contexts. I am currently an Independent Fellow at the <a href="https://www.rockefeller.edu/research/interdisciplinary-centers/center-studies-physics-biology/">Center for Studies in Physics and Biology</a> at the Rockefeller University. Prevsiouy, I worked with <a href="http://www.chadgiusti.com/">Chad Giusti</a> as a postdoc at the <a href="https://www.mathsci.udel.edu/">University of Delaware</a> in the Department of Mathematical Sciences. Before that, I studied  theoretical mathematics at (The) Ohio State University, where I earned my PhD under <a href="https://people.math.osu.edu/harper.903/">John E. Harper</a> in homotopy theory. 
+I am an applied algebraic topologist. I develop tools for topological analysis of data and apply them to real-world data, particularly in the context of neuroscience. I am currently an Independent Fellow in the <a href="https://www.rockefeller.edu/research/interdisciplinary-centers/center-studies-physics-biology/">Center for Studies in Physics and Biology</a> at the Rockefeller University. Prevsiouy, I worked with <a href="http://www.chadgiusti.com/">Chad Giusti</a> as a postdoc at the <a href="https://www.mathsci.udel.edu/">University of Delaware</a> in the Department of Mathematical Sciences. Before that, I studied  theoretical mathematics at (The) Ohio State University, where I earned my PhD under <a href="https://people.math.osu.edu/harper.903/">John E. Harper</a> in homotopy theory. 
 
 <br> <br>
-Here is a copy of my <a href="CV/schonsheck_CV.pdf">CV</a> (last updated September 2025). I recently gave a tutorial highlighting unique advantages of topological and geometric methods in neuroscience, available <a href="https://www.youtube.com/watch?v=bEKkplM23GA&ab_channel=FieldsInstitute">here</a>. Slides for the full 2-hour tutorial are available <a href="https://drive.google.com/file/d/1TnLzSi1UFQ9MTwPSOR99FKhK-GfofyuF/view?usp=sharing">here</a> and the associated Jupyter notebooks can be found on <a href="https://github.com/niko-schonsheck/SIAMAG25">Github</a>.
+Here is a copy of my <a href="CV/schonsheck_CV.pdf">CV</a> (last updated September 2025). I recently gave a tutorial highlighting unique advantages of topological and geometric methods in neuroscience, available <a href="https://www.youtube.com/watch?v=bEKkplM23GA&ab_channel=FieldsInstitute">here</a>. Slides for the full 2-hour tutorial are available <a href="https://drive.google.com/file/d/1TnLzSi1UFQ9MTwPSOR99FKhK-GfofyuF/view?usp=sharing">here</a> (there are a few media elements not compatible with pdf) and the associated Jupyter notebooks can be found on <a href="https://github.com/niko-schonsheck/SIAMAG25">Github</a>.
 
 <br><br>
 
@@ -27,6 +27,125 @@ In addition to my research, I very much enjoy teaching. I have served as an inst
 
 
 
+
+
+
+
+
+
+
+<!-- RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH  -->
+<br><br>
+<hr>
+<center>
+<a class="anchor" name="Research"></a>
+<h1>Research</h1>
+</center>
+<hr>
+
+My research is in applied algebraic topology and uses topological tools to analyze and compare high-dimensional data sets. In further detail, my work focuses on 1) reducing the dimensionality of large data sets in topologically-invariant ways, 2) using tools from topological data analysis to study the geometry of neural representations and neural circuits, using both real-world and simulated data, and 3) developing novel theoretical approaches to modern applied problems using advanced tools from algebraic topology and homotopy theory. 
+
+<br><br>
+
+My PhD research was in homotopy theory and studied spectra with additional algebraic structure described by an operad. I used tools from category theory, functor calculus, and chromatic homotopy theory to prove a number of results identifying conditions under which complex algebraic structure can be recovered by "gluing together" simpler approximations. A brief summary of this work, made for the <a href="https://s.wayne.edu/echt/electronic-algebraic-topology-employment-network/">eATEN</a>, can be found <a href="https://www.youtube.com/watch?v=Va8fOPadRn4"> here.</a><br><br>
+
+
+
+<center><u>
+<h3> Publications/preprints 
+</h3> 
+</u></center>
+
+
+
+
+<b> Learning local geometry and nonlinear topology of neural manifolds via spike-timing dependent plasticity</b><br>
+(with C. Giusti). Available on bioRxiv.
+<br>
+Neural manifolds are an indispensable framework for understanding information encoded by activity in neural populations. While some neural manifolds are linear and can be re- covered from population activity using standard techniques, many neural manifolds exhibit nonlinear global topology for which such tools can be less effective. Notably, circular and toroidal manifolds describe activity in neural systems across a range of species; common examples include orientation-selective simple cells in primary visual cortex, head-direction cells in thalamic circuits, and grid cells in entorhinal cortex. That such structured in- formation appears in both sensory and deep-brain regions raises a basic question: is the propagation of nonlinear coordinate systems a generic feature of biological neural networks, or must this be learned? If learning is necessary, how does it occur? In this paper, we apply methods from topological data analysis developed to quantitatively measure propagation of such nonlinear manifolds across populations to address these problems. We identify a collection of connectivity and parameter regimes for feed-forward networks in which learn- ing is required, and demonstrate that simple Hebbian spike-timing dependent plasticity reorganizes such networks to correctly propagate circular coordinate systems. We observe during this learning process the emergence of geometrically non-local experimentally ob- served receptive field types: bimodally-tuned head-direction cells and cells with spatially periodic, band-like receptive fields. These observations provide quantitative support for the hypothesis that simple biologically plausible plasticity mechanisms suffice to induce changes in the structure of neural architectures sufficient to explain the appearance of such features in real neural systems.
+<br>
+<br>
+
+
+
+<b> Dowker's theorem for higher-order relations</b>
+<br>
+(with V. de Silva, C. Giusti, V. Itskov, M. Robinson, R. Sazdanovic, M. Vaupel, I. H. R. Yoon).
+<br>
+Given a relation between two sets, Dowker's Theorem (1952) states that the homology groups of two associated simplicial complexes, now known as Dowker complexes, are isomorphic. In its modern form, the full result asserts a functorial homotopy equivalence between the two Dowker complexes. What can be said about relations defined on three or more sets? We present a simple generalization to multiway relations. The theorem asserts functorial homotopy equivalences between m multiway Dowker complexes and a variant of the rectangle complex of Brun and Salbu from their recent short proof of Dowker's Theorem. Our proof uses Smale's homotopy mapping theorem and factors through a cellular Dowker lemma that expresses the main idea in more general form. To make the geometry more transparent, we work with a class of spaces called prod-complexes then transfer the results to simplicial complexes through a simplexification process. We conclude with a detailed study of ternary relations, identifying seven functorially defined homotopy types and twelve natural transformations between them.
+<br>
+<br>
+
+
+
+
+
+
+
+<b> O(k)-equivariant dimensionality reduction on Stiefel manifolds </b>
+<br>
+(with A. Lee, H. Lee, J. Perea, M. Weinstein).
+<br>
+Many real-world data sets live on high-dimensional Stiefel manifolds and benefit from projections onto lower-dimensional Stiefel manifolds. We describe an algorithm, called <i>Principal Stiefel Coordinates</i>, that accomplishes this, and does so in an equivariant way. Hence, our algorithm extends to data living on Grassmannian manifolds as well. We perform multiple numerical experiments on real-world and synthetic data sets. Preprint available through <a href="https://arxiv.org/abs/2309.10775">arXiv</a>.
+<br>
+<br>
+
+<b> Spherical coordinates from persistent cohomology </b> (with S. Schonsheck).
+<br>
+<i> Journal of Applied and Computational Topology, <b> 8 </b>, 149-173, 2024. </i>
+<br>
+We describe a method to obtain spherical parameterizations of arbitrary data through the use of persistent cohomology and variational optimization. This builds on the "circular coordinates" of de Silva--Morozov--Vejdemo-Johansson and Perea, answering in the affirmative a question first posed by de Silva et al. in 2011. (22 pages). Also available through <a href="https://arxiv.org/abs/2209.02791">arXiv</a>.
+
+<br>
+<br>
+
+<b> Toroidal coordinates: decorrelating circular coordinates with lattice reduction </b> (with J. Bush, H. Gakhar, J. Perea, T. Rask, L. Scoccola, L. Zhou).
+<br>
+<i>39th International Symposium on Computational Geometry (SoCG 2023)</i>, <b>258</b>, 57:1-57:20 (2023). 
+<br>
+The circular coordinates algorithm of de Silva, Morozov, and Vejdemo-Johansson takes as input a dataset together with a cohomology class representing a 1-dimensional hole in the data; the output is a map from the data into the circle that captures this geometric feature and that is of minimal energy in a suitable sense. However, when applied to several cohomology classes, the output circle-valued maps can be “geometrically correlated” even if the chosen cohomology classes are linearly independent. We describe a systematic procedure for constructing low energy torus-valued maps on data, and showcase our procedure with computational examples. (20 pages). Also available through <a href="https://arxiv.org/abs/2212.07201">arXiv</a>.
+
+<br>
+<br>
+
+<b> On the chromatic localization of the homotopy completion tower for O-algebras</b> (with C. Ogle).
+<br>
+<i> New York Journal of Mathematics, <b> 28 </b>, 1042-1056, 2022. </i>
+<br>
+The completion tower of a nonunital commutative ring is a classical construction in commutative algebra. In the setting of structured ring spectra as modeled by algebras over a spectral operad, the analogous construction is the homotopy completion tower. The purpose of this brief note is to show that localization with respect to the Johnson-Wilson spectrum E(n) commutes with the terms of this tower. (15 pages) <a href="https://arxiv.org/abs/2012.10539">arXiv</a> / <a href="https://people.math.osu.edu/schonsheck.2/research_files/E_n_localization.pdf">pdf</a>
+
+
+<br>
+<br>
+
+<b> TQ-completion and the Taylor tower of the identity functor.</b>
+<br>
+<i>Journal of Homotopy and Related Structures</i> 
+<b> 17</b> (2) 201-216, 2022. 
+<br>
+This paper studies the convergence of the Taylor tower of the identity functor in the context of operadic algebras in spectra. Specifically, we show that if a A is a (-1)-connected O-algebra with 0-connected TQ-homology spectrum, then there is a natural weak equivalence between the limit of the Taylor tower of the identity functor evaluated on A and the TQ-completion of A. Since, in this context, the identity functor is only known to be 0-analytic, this result extends knowledge of the Taylor tower of the identity beyond its "radius of convergence." (14 pages), 2022. <a href="https://arxiv.org/abs/2011.00570">arXiv</a> / <a href="https://people.math.osu.edu/schonsheck.2/research_files/Taylor_tower_of_identity.pdf">pdf</a>
+
+<br>
+<br>
+
+<b> Fibration theorems for TQ-completion of structured ring spectra. </b>
+<br>
+<i> Tbilisi Math. Journal: Special Issue on Homotopy Theory, Spectra, and Structured Ring Spectra</i>, 2020.
+<br>
+
+Working in the context of algebras over a spectral operad, we prove that completion with respect to topological Quillen homology preserves homotopy fibration sequences in which the base and total objects are connected. More generally, we show that similar results remain true if we replace "homotopy fibration sequence" with "homotopy pullback square." (14 pages) <a href="https://arxiv.org/abs/2002.00038">arXiv</a> / <a href="https://people.math.osu.edu/schonsheck.2/research_files/Fibration_theorems.pdf">pdf</a>
+
+<br>
+<br>
+
+<b> On the cop number of generalized Petersen graphs. </b> 
+
+ <br>
+(With T. Ball, R. Bell, J. Guzman, and M. Hanson-Colvin). <i>Discrete Mathematics</i> <b>340</b> (6) 1381-1388, 2017.<br>
+This paper came about from work done during the SURIEM program (an REU) at Michigan State University in 2014. <a href="https://www.sciencedirect.com/science/article/pii/S0012365X16303387/">journal</a> / <a href="https://arxiv.org/abs/1509.04696">arXiv</a>
+<br>
+<br>
+<br>
 
 
 
@@ -113,113 +232,6 @@ Lecture notes: <a href="https://people.math.osu.edu/schonsheck.2/teaching_files/
 
 
 
-
-<!-- RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH RESEARCH  -->
-<br><br>
-<hr>
-<center>
-<a class="anchor" name="Research"></a>
-<h1>Research</h1>
-</center>
-<hr>
-
-My research is in applied algebraic topology and uses topological tools to analyze and compare high-dimensional data sets. In further detail, my work focuses on 1) reducing the dimensionality of large data sets in topologically-invariant ways, 2) using tools from topological data analysis to study the geometry of neural representations and neural circuits, using both real-world and simulated data, and 3) developing novel theoretical approaches to modern applied problems using advanced tools from algebraic topology and homotopy theory. 
-
-<br><br>
-
-My PhD research was in homotopy theory and studied spectra with additional algebraic structure described by an operad. I used tools from category theory, functor calculus, and chromatic homotopy theory to prove a number of results identifying conditions under which complex algebraic structure can be recovered by "gluing together" simpler approximations. A brief summary of this work, made for the <a href="https://s.wayne.edu/echt/electronic-algebraic-topology-employment-network/">eATEN</a>, can be found <a href="https://www.youtube.com/watch?v=Va8fOPadRn4"> here.</a><br><br>
-
-
-
-<center><u>
-<h3> Publications/preprints 
-</h3> 
-</u></center>
-
-<b> O(k)-equivariant dimensionality reduction on Stiefel manifolds </b>
-<br>
-(with A. Lee, H. Lee, J. Perea, M. Weinstein).
-<br>
-Many real-world data sets live on high-dimensional Stiefel manifolds and benefit from projections onto lower-dimensional Stiefel manifolds. We describe an algorithm, called <i>Principal Stiefel Coordinates</i>, that accomplishes this, and does so in an equivariant way. Hence, our algorithm extends to data living on Grassmannian manifolds as well. We perform multiple numerical experiments on real-world and synthetic data sets. Preprint available through <a href="https://arxiv.org/abs/2309.10775">arXiv</a>.
-<br>
-<br>
-
-<b> Spherical coordinates from persistent cohomology </b> (with S. Schonsheck).
-<br>
-<i> Journal of Applied and Computational Topology, <b> 8 </b>, 149-173, 2024. </i>
-<br>
-We describe a method to obtain spherical parameterizations of arbitrary data through the use of persistent cohomology and variational optimization. This builds on the "circular coordinates" of de Silva--Morozov--Vejdemo-Johansson and Perea, answering in the affirmative a question first posed by de Silva et al. in 2011. (22 pages). Also available through <a href="https://arxiv.org/abs/2209.02791">arXiv</a>.
-
-<br>
-<br>
-
-<b> Toroidal coordinates: decorrelating circular coordinates with lattice reduction </b> (with J. Bush, H. Gakhar, J. Perea, T. Rask, L. Scoccola, L. Zhou).
-<br>
-<i>39th International Symposium on Computational Geometry (SoCG 2023)</i>, <b>258</b>, 57:1-57:20 (2023). 
-<br>
-The circular coordinates algorithm of de Silva, Morozov, and Vejdemo-Johansson takes as input a dataset together with a cohomology class representing a 1-dimensional hole in the data; the output is a map from the data into the circle that captures this geometric feature and that is of minimal energy in a suitable sense. However, when applied to several cohomology classes, the output circle-valued maps can be “geometrically correlated” even if the chosen cohomology classes are linearly independent. We describe a systematic procedure for constructing low energy torus-valued maps on data, and showcase our procedure with computational examples. (20 pages). Also available through <a href="https://arxiv.org/abs/2212.07201">arXiv</a>.
-
-<br>
-<br>
-
-<b> On the chromatic localization of the homotopy completion tower for O-algebras</b> (with C. Ogle).
-<br>
-<i> New York Journal of Mathematics, <b> 28 </b>, 1042-1056, 2022. </i>
-<br>
-The completion tower of a nonunital commutative ring is a classical construction in commutative algebra. In the setting of structured ring spectra as modeled by algebras over a spectral operad, the analogous construction is the homotopy completion tower. The purpose of this brief note is to show that localization with respect to the Johnson-Wilson spectrum E(n) commutes with the terms of this tower. (15 pages) <a href="https://arxiv.org/abs/2012.10539">arXiv</a> / <a href="https://people.math.osu.edu/schonsheck.2/research_files/E_n_localization.pdf">pdf</a>
-
-
-<br>
-<br>
-
-<b> TQ-completion and the Taylor tower of the identity functor.</b>
-<br>
-<i>Journal of Homotopy and Related Structures</i> 
-<b> 17</b> (2) 201-216, 2022. 
-<br>
-This paper studies the convergence of the Taylor tower of the identity functor in the context of operadic algebras in spectra. Specifically, we show that if a A is a (-1)-connected O-algebra with 0-connected TQ-homology spectrum, then there is a natural weak equivalence between the limit of the Taylor tower of the identity functor evaluated on A and the TQ-completion of A. Since, in this context, the identity functor is only known to be 0-analytic, this result extends knowledge of the Taylor tower of the identity beyond its "radius of convergence." (14 pages), 2022. <a href="https://arxiv.org/abs/2011.00570">arXiv</a> / <a href="https://people.math.osu.edu/schonsheck.2/research_files/Taylor_tower_of_identity.pdf">pdf</a>
-
-<br>
-<br>
-
-<b> Fibration theorems for TQ-completion of structured ring spectra. </b>
-<br>
-<i> Tbilisi Math. Journal: Special Issue on Homotopy Theory, Spectra, and Structured Ring Spectra</i>, 2020.
-<br>
-
-Working in the context of algebras over a spectral operad, we prove that completion with respect to topological Quillen homology preserves homotopy fibration sequences in which the base and total objects are connected. More generally, we show that similar results remain true if we replace "homotopy fibration sequence" with "homotopy pullback square." (14 pages) <a href="https://arxiv.org/abs/2002.00038">arXiv</a> / <a href="https://people.math.osu.edu/schonsheck.2/research_files/Fibration_theorems.pdf">pdf</a>
-
-<br>
-<br>
-
-<b> On the cop number of generalized Petersen graphs. </b> 
-
- <br>
-(With T. Ball, R. Bell, J. Guzman, and M. Hanson-Colvin). <i>Discrete Mathematics</i> <b>340</b> (6) 1381-1388, 2017.<br>
-This paper came about from work done during the SURIEM program (an REU) at Michigan State University in 2014. <a href="https://www.sciencedirect.com/science/article/pii/S0012365X16303387/">journal</a> / <a href="https://arxiv.org/abs/1509.04696">arXiv</a>
-
-<br>
-<center><u>
-<h3> In preparation 
-</h3> 
-</u></center>
-
-
-<b> Relative neural population size modulates learnability of cyclic features of neural code</b><br>
-(with C. Giusti).
-<br>
-We study the propagation of cyclic features of neural code through feedforward rate-model networks. Our primary results are 1) one-layer feedforward networks with connections drawn from a random distribution biased towards inhibitory connections do not generally propagate cyclic features of neural code 2) a simple Hebbian learning rule to update network connections successfully constructs networks that do propagate cyclic features and 3) under certain biologically plausible parameter choices, the inhibition and propagation of such features can be modulated by the size of the output neuron population.
-<br>
-<br>
-
-
-<b> A generalized Dowker Theorem</b>
-<br>
-(with C. Giusti, V. Itskov, M. Robinson, R. Sazdanovic, V. de Silva, M. Vaupel, H-R. Yoon).
-A classical theorem of C. H. Dowker implies that, from a topological perspective, the role of "witnesses" and "landmarks" of a data set are interchangeable. We generalize this theorem to multi-way relations of sets. We offer several proofs from a variety of perspectives, and discuss the historical development of results of this nature. 
-<br>
-<br>
-<br>
 
 
 <center>
