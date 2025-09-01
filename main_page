@@ -238,7 +238,7 @@ Lecture notes: <a href="https://people.math.osu.edu/schonsheck.2/teaching_files/
 <center>
 <u><h3> Other research and service activity </h3></u></center>
 
-<b> Summer 2025:</b> Co-organized minisymposium "Topology and Geometry in Neuroscience" at <a href="https://www.siam.org/conferences-events/past-event-archive/ag25/">SIAM AG 25</a>, July 2025.
+<b> Summer 2025:</b> Co-organized minisymposium "Topology and Geometry in Neuroscience" at <a href="https://www.siam.org/conferences-events/past-event-archive/ag25/">SIAM AG 25</a>, July 2025.<br>
 <b> Spring 2024:</b> Co-organized AIM-AMS special session <a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss61.html">Applied Topology Beyond Persistence Diagrams</a> at the JMM, January 2024.<br>
 <b> Spring 2023:</b> Co-organized AMS special session <a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2023/2270_program_ss68.html">Applied Topology: Theory and Implementation</a> at the JMM, January 2023. <br>
 <b> Fall 2021-Spring 2024:</b> Member of <a href="https://sites.udel.edu/antiracism-initiative/committees/addressing-barriers-to-participation-in-stem/">Addressing Barriers to Participation in STEM</a> committee of University of Delaware <a href="https://sites.udel.edu/antiracism-initiative/">Anti-Racism Iniative</a>.<br>
@@ -262,6 +262,58 @@ Lecture notes: <a href="https://people.math.osu.edu/schonsheck.2/teaching_files/
 <h3> Invited and contributed presentations </h3> 
 </u></center>
 
+
+
+<b> Workshop on Topological Data Analysis<br>
+Fields Institute, Toronto, Ontario</b>
+<br>
+<i>
+Tutorial: Topological and Geometric Methods in Neuroscience
+</i>
+<br>
+Recent technological advancements in neuroscience have led to an unprecedented view into the functioning of neural circuits, from single-neuron dynamics to the mapping of entire connectomes. This explosion of data brings with it profound challenges: How do these data sets reveal insights into brain function? What mathematical frameworks can reconcile these findings with theoretical models? Can we unify these approaches to better understand neural circuits and dynamics? This minitutorial will introduce the powerful role of topological and geometric methods in addressing these questions, focusing on their application to questions in modern theoretical neuroscience and data science.
+
+Designed for participants with a minimal background in topology and graph theory, the course will begin with an introduction to theoretical neuroscience with a focus on applications to real-world data. What do "typical" neuroscientific data sets generally look like? What sorts of questions are we well-equipped to answer? What sorts of questions remain out of reach? Next, we will introduce a collection of central methods in geometric/topological neuroscience, including the use of directed graphs for modeling neuronal networks and persistent homology with associated Betti curves for handling large-scale neural recordings. Time permitting, we will see these methods in action on real-world data sets.
+<br><br>
+
+
+
+
+
+<b> SIAM Conference on Applied Algebraic Geometmry<br>
+University of Wisconsin, Madison (2025)</b>
+<br>
+<i>
+Minitutorial on Topological and Geometric Methods in Neuroscience
+</i>
+<br>
+Abstract similar to above.
+<br><br>
+
+
+
+
+
+<b> Mathematics Colloquium<br>
+Vassar College (2024)</b>
+<br>
+<i>
+An introduction to applied algebraic topology
+</i>
+<br>
+Over the last 10-20 years, applications of topology to fields such as neuroscience, genomics, and data analysis have exploded in number. The most recent conference on applied topology in Oxford drew hundreds of participants from all over the world. In this talk, we will provide an introduction to how algebraic topology can be used to find the "shape of data" and how that shape can encode information that would otherwise be inaccessible. We will begin by introducing some of the main tools from algebraic topology used in modern topological data analysis such as simplicial and persistent homology. Time permitting, we will then apply these tools in the context of neuroscience and explore how neural circuits learn to represent topologically complex coding patterns. This talk is aimed at a broad undergraduate audience. No familiarity with topology will be assumed.
+<br><br>
+
+
+<b> SIAM Conference on Mathematics of Data Science<br>
+Atlanta, Georgia (2024)</b>
+<br>
+<i>
+Topological Dimensionality Reduction Via Persistent Cohomology
+</i>
+<br>
+The circular coordinates algorithm of de Silva-Vejdemo-Johansson-Morozov, later strengthened by Perea, extracts circular parameterizations of data from persistent cohomology calculations. More precisely, one can obtain coordinate functions from a data set to the unit circle via fist-degree persistent cohomology, providing a valuable tool for data visualization. Since these results were first published a little over a decade ago, the question of whether spherical coordinates, i.e., maps from data to the unit sphere, could be similarly (and directly) obtained from second-degree persistent cohomology remained open. In this talk, we will begin by reviewing the circular coordinates algorithm of de Silva et al., and then discuss work in which we obtain spherical parameterizations of data from second-degree persistent cohomology, describing examples of our algorithm on various data sets. Time permitting, we may briefly discuss additional applications to data sets with multiple circular features. This is joint work with Stefan Schonsheck.
+<br><br>
 
 <b> International Conference on Mathematical Neuroscience<br>
 University College, Dublin (2024)</b>
