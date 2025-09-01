@@ -59,8 +59,9 @@ My PhD research was in homotopy theory and studied spectra with additional algeb
 
 
 
-<b> Learning local geometry and nonlinear topology of neural manifolds via spike-timing dependent plasticity</b><br>
-(with C. Giusti). Available on bioRxiv.
+<b> Learning local geometry and nonlinear topology of neural manifolds via spike-timing dependent plasticity</b> (with C. Giusti). 
+<br>
+Available on bioRxiv.
 <br>
 Neural manifolds are an indispensable framework for understanding information encoded by activity in neural populations. While some neural manifolds are linear and can be re- covered from population activity using standard techniques, many neural manifolds exhibit nonlinear global topology for which such tools can be less effective. Notably, circular and toroidal manifolds describe activity in neural systems across a range of species; common examples include orientation-selective simple cells in primary visual cortex, head-direction cells in thalamic circuits, and grid cells in entorhinal cortex. That such structured in- formation appears in both sensory and deep-brain regions raises a basic question: is the propagation of nonlinear coordinate systems a generic feature of biological neural networks, or must this be learned? If learning is necessary, how does it occur? In this paper, we apply methods from topological data analysis developed to quantitatively measure propagation of such nonlinear manifolds across populations to address these problems. We identify a collection of connectivity and parameter regimes for feed-forward networks in which learn- ing is required, and demonstrate that simple Hebbian spike-timing dependent plasticity reorganizes such networks to correctly propagate circular coordinate systems. We observe during this learning process the emergence of geometrically non-local experimentally ob- served receptive field types: bimodally-tuned head-direction cells and cells with spatially periodic, band-like receptive fields. These observations provide quantitative support for the hypothesis that simple biologically plausible plasticity mechanisms suffice to induce changes in the structure of neural architectures sufficient to explain the appearance of such features in real neural systems.
 <br>
@@ -68,9 +69,9 @@ Neural manifolds are an indispensable framework for understanding information en
 
 
 
-<b> Dowker's theorem for higher-order relations</b>
+<b> Dowker's theorem for higher-order relations</b> (with V. de Silva, C. Giusti, V. Itskov, M. Robinson, R. Sazdanovic, M. Vaupel, I. H. R. Yoon).
 <br>
-(with V. de Silva, C. Giusti, V. Itskov, M. Robinson, R. Sazdanovic, M. Vaupel, I. H. R. Yoon).
+Submitted, available on <a href="https://arxiv.org/html/2506.10909">arXiv</a>.
 <br>
 Given a relation between two sets, Dowker's Theorem (1952) states that the homology groups of two associated simplicial complexes, now known as Dowker complexes, are isomorphic. In its modern form, the full result asserts a functorial homotopy equivalence between the two Dowker complexes. What can be said about relations defined on three or more sets? We present a simple generalization to multiway relations. The theorem asserts functorial homotopy equivalences between m multiway Dowker complexes and a variant of the rectangle complex of Brun and Salbu from their recent short proof of Dowker's Theorem. Our proof uses Smale's homotopy mapping theorem and factors through a cellular Dowker lemma that expresses the main idea in more general form. To make the geometry more transparent, we work with a class of spaces called prod-complexes then transfer the results to simplicial complexes through a simplexification process. We conclude with a detailed study of ternary relations, identifying seven functorially defined homotopy types and twelve natural transformations between them.
 <br>
@@ -82,11 +83,11 @@ Given a relation between two sets, Dowker's Theorem (1952) states that the homol
 
 
 
-<b> O(k)-equivariant dimensionality reduction on Stiefel manifolds </b>
+<b> O(k)-equivariant dimensionality reduction on Stiefel manifolds </b> (with A. Lee, H. Lee, J. Perea, M. Weinstein).
 <br>
-(with A. Lee, H. Lee, J. Perea, M. Weinstein).
+<i>SIAM Journal on Mathematics of Data Sciences</i>, <b>7(2)</b>, 410-437, 2025.
 <br>
-Many real-world data sets live on high-dimensional Stiefel manifolds and benefit from projections onto lower-dimensional Stiefel manifolds. We describe an algorithm, called <i>Principal Stiefel Coordinates</i>, that accomplishes this, and does so in an equivariant way. Hence, our algorithm extends to data living on Grassmannian manifolds as well. We perform multiple numerical experiments on real-world and synthetic data sets. Preprint available through <a href="https://arxiv.org/abs/2309.10775">arXiv</a>.
+Many real-world data sets live on high-dimensional Stiefel manifolds and benefit from projections onto lower-dimensional Stiefel manifolds. We describe an algorithm, called <i>Principal Stiefel Coordinates</i>, that accomplishes this, and does so in an equivariant way. Hence, our algorithm extends to data living on Grassmannian manifolds as well. We perform multiple numerical experiments on real-world and synthetic data sets. Also available through <a href="https://arxiv.org/abs/2309.10775">arXiv</a>.
 <br>
 <br>
 
