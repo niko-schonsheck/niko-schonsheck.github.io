@@ -263,8 +263,21 @@ Lecture notes: <a href="https://people.math.osu.edu/schonsheck.2/teaching_files/
 
 
 
+<b> Topology Seminar<br>
+EPFL (September 2025)</b>
+<br>
+<i>
+Circles in the brain: learning local geometry and nonlinear topology via spike-timing dependent plasticity
+</i>
+<br>
+Brains use a variety of coordinate systems to encode information. Sometimes these coordinate systems are linear and can be recovered from population activity using standard techniques. Often, however, they are not: many coordinate systems exhibit nonlinear global topology for which such tools can be less effective. Notably, circular and toroidal manifolds describe activity in neural systems across a range of species; common examples include orientation-selective simple cells in primary visual cortex, head-direction cells in thalamic circuits, and grid cells in entorhinal cortex. That such structured information appears in both sensory and deep-brain regions raises a basic question: is the propagation of nonlinear coordinate systems a generic feature of biological neural networks, or must this be learned? If learning is necessary, how does it occur? We apply methods from topological data analysis developed to quantitatively measure propagation of such nonlinear manifolds across populations to address these problems. We identify a collection of connectivity and parameter regimes for feed-forward networks in which learning is required, and demonstrate that simple Hebbian spike-timing dependent plasticity reorganizes such networks to correctly propagate circular coordinate systems. We also observe during this learning process the emergence of geometrically non-local experimentally observed receptive field types: bimodally-tuned head-direction cells and cells with spatially periodic, band-like receptive fields. 
+<br><br>
+
+
+
+
 <b> Workshop on Topological Data Analysis<br>
-Fields Institute, Toronto, Ontario</b>
+Fields Institute, Toronto, Ontario (August 2025)</b>
 <br>
 <i>
 Tutorial: Topological and Geometric Methods in Neuroscience
